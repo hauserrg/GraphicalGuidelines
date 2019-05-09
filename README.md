@@ -3,6 +3,8 @@
 It is possible to perform detailed analysis of adherence to clinical guidelines with graphical techniques. 
 We have provided demonstrations of this concept. 
 
+The first example 
+
 ## Getting Started
 
 Simply download the project and run the SQL code.  This project requires no prerequisites or installation.
