@@ -9,7 +9,7 @@ The first example creates the output table for a simple directed graph, which ca
 
 ## Getting Started
 
-Simply download the project and run the SQL code.  This project requires no prerequisites or installation.
+Simply download the project and run the SQL code.  This project requires SQL with a server instance to be available. Visualization of the output file will require Gephi to be installed. Gephi can be obtained from here (https://gephi.org/). 
 
 ## Built With
 
