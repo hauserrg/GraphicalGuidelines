@@ -3,9 +3,9 @@
 It is possible to perform detailed analysis of adherence to clinical guidelines with graphical techniques. 
 We have provided demonstrations of this concept. 
 
-The first example creates the output table for a simple directed graph, which can then be loaded into graphical modeling software such as Gephi. In the first example, four nodes (start, 1, 2, and end) and three edges (start --> 1, 1 --> 2, and 2 --> end) are generated. Loading the output file into Gephi will allow for visualization of this simple model. 
+Two examples are enclosed.  See the files: "Example1.sql" and "Example2.sql".  The first example can be performed in SQL.  The second example requires both SQL and c#.  
 
-The second example creates an output table with facility-level data (as an example). The output file can then be loaded into Gephi for visualization. 
+We will upload a copy of the manuscript once it passes peer-review.  These examples can be found in the supplementary material to the manuscript.  
 
 ## Getting Started
 
